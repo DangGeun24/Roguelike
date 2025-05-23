@@ -1421,11 +1421,15 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/DesertScene.unity
   m_LocalPosition: {x: 0.10062944, y: -1.33643, z: -10}
 =======
   m_LocalPosition: {x: 4.0157447, y: 1.5399995, z: -5}
 >>>>>>> Stashed changes:Assets/Scenes/Desert01_Scene.unity
+=======
+  m_LocalPosition: {x: 4.0157447, y: 1.5399995, z: -5}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1565,11 +1569,15 @@ Transform:
   m_GameObject: {fileID: 742592015}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream:Assets/Scenes/DesertScene.unity
   m_LocalPosition: {x: 0.10063435, y: -1.4742618, z: -10}
 =======
   m_LocalPosition: {x: 11.343224, y: -7.734262, z: -5}
 >>>>>>> Stashed changes:Assets/Scenes/Desert01_Scene.unity
+=======
+  m_LocalPosition: {x: 11.343224, y: -7.734262, z: -5}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
